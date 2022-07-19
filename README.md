@@ -1,8 +1,7 @@
 # Boston-Green-Line-Simulation
 /**********************************************************
-* Project 1: Metro Simulator 
+* Data Structure Independent Project 1: Metro Simulator 
 * README
-*
 *********************************************************/
 
 Compile/run:
