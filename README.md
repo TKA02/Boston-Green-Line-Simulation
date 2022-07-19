@@ -1,12 +1,15 @@
 # Boston-Green-Line-Simulation
 /**********************************************************
+
 * Data Structure Independent Project 1: Metro Simulator 
 * README
+
 *********************************************************/
 
 Compile/run:
      - Compile using
             make MetroSim
+            
      - run executable with
             ./MetroSim stationsFile passFile [commands]
 
